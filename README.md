@@ -39,7 +39,8 @@ The style.css file for styling the slider
 The script.js file for JavaScript functionality
 The images used in the slider, stored in an image folder
 **---------Usage-----------**
-Open the index.html file in a web browser.
+First of all Extract Image Slider .zip to your desired location on your device. 
+Then open the index.html file in a web browser.
 The slider will display the list of images with corresponding content.
 Use the navigation arrows to move through the slider items.
 Click on a thumbnail to view the corresponding image and content.
