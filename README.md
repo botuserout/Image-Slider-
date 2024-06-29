@@ -44,3 +44,4 @@ Then open the index.html file in a web browser.
 The slider will display the list of images with corresponding content.
 Use the navigation arrows to move through the slider items.
 Click on a thumbnail to view the corresponding image and content.
+![Screenshot 2024-06-29 122805](https://github.com/botuserout/Image-Slider-/assets/160648123/caedd943-59a3-4b1d-8ce1-1983a3291ef6)
