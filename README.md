@@ -1,5 +1,9 @@
 # Image-Slider-
 This is an HTML document that displays an image slider with the title "Image Slider BY RAKESH". The slider contains six items, each with an image and content. The content includes a paragraph and a heading with a link to a Wikipedia page. The slider also has navigation arrows and a thumbnail section.
+
+
+
+
 **Structure**
 **The HTML document is structured as follows:**
 
@@ -7,6 +11,9 @@ head section: contains meta tags for character encoding and viewport settings, a
 body section: contains a header section with a logo, a slider section with a list of slider items, navigation arrows, and a thumbnail section.
 Each slider item contains an image and content, which includes a paragraph and a heading with a link to a Wikipedia page.
 The thumbnail section contains thumbnail items with images and content.
+
+
+
 **The JAVASCRIPT document is structured as follows:**
 This script is used to create a basic slider functionality with thumbnails. It allows users to navigate through the slider items using the next and previous buttons and also auto-advances the slider every 3 seconds.
 Variables and Selectors
